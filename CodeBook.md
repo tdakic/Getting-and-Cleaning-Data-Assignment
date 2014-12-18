@@ -1,9 +1,4 @@
----
-title: "CodeBook"
-author: "TD"
-date: "December 17, 2014"
-output: html_document
----
+## Code Book
 
 The raw data for this project can be found at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. This folder contains README.txt file that describes the experiment, features.txt that gives the measured features and features_info.txt that describes the features.
 
