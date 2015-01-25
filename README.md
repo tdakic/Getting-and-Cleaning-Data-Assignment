@@ -1,3 +1,4 @@
+(Please note that I completed the project for the previous offering of the course and hence the upload dates)
 ## Project for the Coursera Course Getting and Cleaning Data
 
 The submission consists of CodeBook.md, the file run_analysis.r that is used to tidy the data according to the requirements and this README.md file.
